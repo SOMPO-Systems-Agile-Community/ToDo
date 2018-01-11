@@ -16,4 +16,12 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="315dp"
+        android:layout_height="111dp"
+        android:text="TextView"
+        tools:layout_editor_absoluteX="29dp"
+        tools:layout_editor_absoluteY="91dp" />
+
 </android.support.constraint.ConstraintLayout>
